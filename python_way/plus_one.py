@@ -9,4 +9,3 @@ def plus_one(digits):
     new_number = int(string) + 1
     new_digits = list(map(int, str(new_number)))
     return new_digits
-

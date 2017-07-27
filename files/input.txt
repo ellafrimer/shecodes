@@ -1,0 +1,10 @@
+cat
+dog
+life
+mouse
+banana
+file
+python
+sun
+moon
+milk
